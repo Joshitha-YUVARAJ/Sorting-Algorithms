@@ -47,7 +47,8 @@ print(num)
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/d7f8938e-ed18-4730-bc03-b573e8c91a54)
-![image](https://github.com/user-attachments/assets/c34cf7bc-820e-4919-b502-d91d11f889a3)
+![image](https://github.com/user-attachments/assets/e852c618-1180-4a9d-80e2-7d7390522dbb)
+
 
 
 
